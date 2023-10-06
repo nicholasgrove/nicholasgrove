@@ -3,3 +3,4 @@
 ###### Glad to see you here :heart:
 - 🏢 I am a Cloud \ Security \ AI Sales Engineer at Microsoft, and other places.
 - 🌱 I’m always learning, let me know if I can help you. 📫 ng@linux.com
+- 🖇 Connect on [LinkedIn](https://linkedin.com/in/nicholasgrove)
